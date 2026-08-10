@@ -58,7 +58,9 @@ Category + Subcategory
     v
 Evaluation Pipeline
 
-Service Taxonomy
+===
+
+## Service Taxonomy
 The current dataset covers multiple service domains including:
 Home Services
 Electrician
