@@ -1,0 +1,121 @@
+query,expected_category,expected_subcategory,actual_category,actual_subcategory,result
+clothes washing service chahiye,Daily Needs,Laundry,Daily Needs,Laundry,PASS
+nearby room interior karwana hai koi hai kya,Local Professionals,Interior Designer,Local Professionals,Interior Designer,PASS
+mere area me CCTV camera lagwana hai jaldi,Home Services,CCTV Installation,Home Services,CCTV Installation,PASS
+urgent tractor mechanic chahiye jaldi,Agriculture,Tractor Repair,Agriculture,Tractor Repair,PASS
+bhai online classes chahiye aaj,Education,Online Tutor,Education,Online Tutor,PASS
+aaj physiotherapy karwani hai chahiye,Health & Wellness,Physiotherapist,Health & Wellness,Physiotherapist,PASS
+nearby doctor appointment chahiye help chahiye,Health & Wellness,Doctor,Health & Wellness,Doctor,PASS
+urgent bike repair karwani hai aaj,Vehicle Services,Bike Repair,Vehicle Services,Bike Repair,PASS
+car tow karwani hai mere area me,Vehicle Services,Towing Service,Vehicle Services,Towing Service,PASS
+jaldi birthday party planner chahiye jaldi,Local Professionals,Event Planner,Local Professionals,Event Planner,PASS
+nearby fan repair karwana hai mere area me,Home Services,Electrician,Home Services,Appliance Repair,FAIL
+urgent personal trainer chahiye mere area me,Health & Wellness,Fitness Trainer,Health & Wellness,Fitness Trainer,PASS
+aaj plumber chahiye koi hai kya,Home Services,Plumber,Home Services,Plumber,PASS
+home cleaning service chahiye nearby,Daily Needs,House Cleaning,Daily Needs,House Cleaning,PASS
+mujhe ghar ka interior design karwana hai urgently,Local Professionals,Interior Designer,Local Professionals,Interior Designer,PASS
+pest control chahiye help chahiye,Daily Needs,Pest Control,Daily Needs,Pest Control,PASS
+lawyer chahiye please,Business Services,Lawyer,Business Services,Lawyer,PASS
+bhai clothes washing service chahiye aaj,Daily Needs,Laundry,Daily Needs,Laundry,PASS
+aaj ghar me cockroach bahut hain nearby,Daily Needs,Pest Control,Daily Needs,Pest Control,PASS
+urgent khet me irrigation karwani hai koi hai kya,Agriculture,Irrigation Service,Agriculture,Irrigation Service,PASS
+bhai interior designer chahiye,Local Professionals,Interior Designer,Local Professionals,Interior Designer,PASS
+mujhe water purifier repair karwana hai mere area me,Home Services,RO / Water Purifier Service,Home Services,RO / Water Purifier Service,PASS
+please switch kaam nahi kar raha help chahiye,Home Services,Electrician,Home Services,Electrician,PASS
+aaj AC service chahiye mere area me,Home Services,AC Repair & Service,Home Services,AC Repair & Service,PASS
+please function organise karwana hai koi hai kya,Local Professionals,Event Planner,Local Professionals,Event Planner,PASS
+jaldi bike repair karwani hai jaldi,Vehicle Services,Bike Repair,Vehicle Services,Bike Repair,PASS
+nearby car tyre puncture ho gaya urgently,Vehicle Services,Tyre Puncture,Vehicle Services,Tyre Puncture,PASS
+aaj ghar par teacher chahiye koi hai kya,Education,Home Tutor,Education,Home Tutor,PASS
+ghar par teacher chahiye,Education,Home Tutor,Education,Home Tutor,PASS
+mujhe bike repair karwani hai help chahiye,Vehicle Services,Bike Repair,Vehicle Services,Bike Repair,PASS
+please chartered accountant chahiye koi hai kya,Business Services,CA,Business Services,CA,PASS
+urgent ghar ki light kharab hai koi hai kya,Home Services,Electrician,Home Services,Electrician,PASS
+aaj doctor appointment chahiye mere area me,Health & Wellness,Doctor,Health & Wellness,Doctor,PASS
+jaldi home cleaning service chahiye,Daily Needs,House Cleaning,Daily Needs,House Cleaning,PASS
+urgent ghar ki light kharab hai mere area me,Home Services,Electrician,Home Services,Electrician,PASS
+bhai function organise karwana hai nearby,Local Professionals,Event Planner,Local Professionals,Event Planner,PASS
+mere ghar me fitness trainer chahiye urgently,Health & Wellness,Fitness Trainer,Health & Wellness,Fitness Trainer,PASS
+mujhe online tutor chahiye help chahiye,Education,Online Tutor,Education,Online Tutor,PASS
+mere ghar me CCTV camera lagwana hai chahiye,Home Services,CCTV Installation,Home Services,CCTV Installation,PASS
+nearby pani ki pipe repair karwani hai jaldi,Home Services,Plumber,Home Services,Plumber,PASS
+please home cleaning service chahiye nearby,Daily Needs,House Cleaning,Daily Needs,House Cleaning,PASS
+nearby logo design karwana hai jaldi,Business Services,Graphic Designer,Business Services,Graphic Designer,PASS
+mere ghar me battery service chahiye jaldi,Vehicle Services,Battery Service,Vehicle Services,Battery Service,PASS
+jaldi bachche ke liye tutor chahiye koi hai kya,Education,Home Tutor,Education,Home Tutor,PASS
+mere area me room paint karwana hai,Home Services,Painter,Home Services,Painter,PASS
+please bike tyre puncture hai koi hai kya,Vehicle Services,Tyre Puncture,Vehicle Services,Tyre Puncture,PASS
+mujhe water purifier repair karwana hai help chahiye,Home Services,RO / Water Purifier Service,Home Services,RO / Water Purifier Service,PASS
+bhai AC repair karwana hai nearby,Home Services,AC Repair & Service,Home Services,AC Repair & Service,PASS
+aaj event planner chahiye please,Local Professionals,Event Planner,Local Professionals,Event Planner,PASS
+please coaching join karni hai urgently,Education,Coaching Institute,Education,Coaching Institute,PASS
+mere area me kapde laundry ke liye dene hain please,Daily Needs,Laundry,Daily Needs,Laundry,PASS
+back pain ke liye physiotherapist chahiye help chahiye,Health & Wellness,Physiotherapist,Health & Wellness,Physiotherapist,PASS
+urgent event planner chahiye nearby,Local Professionals,Event Planner,Local Professionals,Event Planner,PASS
+business promotion karwana hai nearby,Business Services,Digital Marketing,Business Services,Digital Marketing,PASS
+aaj exam coaching chahiye help chahiye,Education,Coaching Institute,Education,Coaching Institute,PASS
+mujhe coaching join karni hai jaldi,Education,Coaching Institute,Education,Coaching Institute,PASS
+mujhe khet me irrigation karwani hai help chahiye,Agriculture,Irrigation Service,Agriculture,Irrigation Service,PASS
+clothes washing service chahiye please,Daily Needs,Laundry,Daily Needs,Laundry,PASS
+ghar ka interior design karwana hai chahiye,Local Professionals,Interior Designer,Local Professionals,Interior Designer,PASS
+please ghar me cockroach bahut hain jaldi,Daily Needs,Pest Control,Daily Needs,Pest Control,PASS
+bhai I need a photographer jaldi,Local Professionals,Photographer,Local Professionals,Photographer,PASS
+RO service chahiye jaldi,Home Services,RO / Water Purifier Service,Home Services,RO / Water Purifier Service,PASS
+jaldi event planner chahiye nearby,Local Professionals,Event Planner,Local Professionals,Event Planner,PASS
+tractor repair karwana hai,Agriculture,Tractor Repair,Agriculture,Tractor Repair,PASS
+mere ghar me home tutor chahiye nearby,Education,Home Tutor,Education,Home Tutor,PASS
+urgent online classes chahiye nearby,Education,Online Tutor,Education,Online Tutor,PASS
+aaj web developer chahiye chahiye,Business Services,Web Developer,Business Services,Web Developer,PASS
+mere ghar me farm machine repair karwani hai nearby,Agriculture,Farm Equipment Repair,Agriculture,Farm Equipment Repair,PASS
+aaj AC thanda nahi kar raha chahiye,Home Services,AC Repair & Service,Home Services,AC Repair & Service,PASS
+please clothes washing service chahiye aaj,Daily Needs,Laundry,Daily Needs,Laundry,PASS
+urgent online teacher chahiye,Education,Online Tutor,Education,Online Tutor,PASS
+nearby car wash karwani hai nearby,Vehicle Services,Vehicle Washing,Vehicle Services,Vehicle Washing,PASS
+mere ghar me farm equipment mechanic chahiye urgently,Agriculture,Farm Equipment Repair,Agriculture,Farm Equipment Repair,PASS
+bhai legal help chahiye chahiye,Business Services,Lawyer,Business Services,Lawyer,PASS
+poster design karwana hai help chahiye,Business Services,Graphic Designer,Business Services,Graphic Designer,PASS
+please photographer chahiye help chahiye,Local Professionals,Photographer,Local Professionals,Photographer,PASS
+mere area me doctor appointment chahiye chahiye,Health & Wellness,Doctor,Health & Wellness,Doctor,PASS
+jaldi furniture repair karwana hai jaldi,Home Services,Carpenter,Home Services,Carpenter,PASS
+mere ghar me bike battery kharab hai aaj,Vehicle Services,Battery Service,Vehicle Services,Battery Service,PASS
+nearby online tutor chahiye mere area me,Education,Online Tutor,Education,Online Tutor,PASS
+please social media marketing chahiye nearby,Business Services,Digital Marketing,Business Services,Digital Marketing,PASS
+aaj car battery dead hai koi hai kya,Vehicle Services,Battery Service,Vehicle Services,Battery Service,PASS
+please gaadi ko tow karke le jana hai mere area me,Vehicle Services,Towing Service,Vehicle Services,Towing Service,PASS
+aaj irrigation service chahiye urgently,Agriculture,Irrigation Service,Agriculture,Irrigation Service,PASS
+gaadi ko tow karke le jana hai,Vehicle Services,Towing Service,Vehicle Services,Towing Service,PASS
+mere ghar me darwaza repair karwana hai jaldi,Home Services,Carpenter,Home Services,Carpenter,PASS
+mujhe car wash karwani hai please,Vehicle Services,Vehicle Washing,Vehicle Services,Vehicle Washing,PASS
+bhai clothes washing service chahiye chahiye,Daily Needs,Laundry,Daily Needs,Laundry,PASS
+jaldi tractor kharab ho gaya nearby,Agriculture,Tractor Repair,Agriculture,Tractor Repair,PASS
+mujhe laundry service chahiye,Daily Needs,Laundry,Daily Needs,Laundry,PASS
+jaldi physiotherapist chahiye mere area me,Health & Wellness,Physiotherapist,Health & Wellness,Physiotherapist,PASS
+nearby pest control chahiye chahiye,Daily Needs,Pest Control,Daily Needs,Pest Control,PASS
+nearby bike wash karwani hai jaldi,Vehicle Services,Vehicle Washing,Vehicle Services,Vehicle Washing,PASS
+aaj agriculture machine kharab hai,Agriculture,Farm Equipment Repair,Agriculture,Farm Equipment Repair,PASS
+mere area me farm machine repair karwani hai urgently,Agriculture,Farm Equipment Repair,Agriculture,Farm Equipment Repair,PASS
+mere ghar me washing machine kharab hai nearby,Home Services,Appliance Repair,Home Services,Appliance Repair,PASS
+nearby doctor appointment chahiye jaldi,Health & Wellness,Doctor,Health & Wellness,Doctor,PASS
+jaldi lawyer chahiye urgently,Business Services,Lawyer,Business Services,Lawyer,PASS
+ghar ki safai karwani hai nearby,Daily Needs,House Cleaning,Daily Needs,House Cleaning,PASS
+urgent online classes chahiye urgently,Education,Online Tutor,Education,Online Tutor,PASS
+urgent RO service chahiye help chahiye,Home Services,RO / Water Purifier Service,Home Services,RO / Water Purifier Service,PASS
+logo design karwana hai koi hai kya,Business Services,Graphic Designer,Business Services,Graphic Designer,PASS
+mere ghar me bike start nahi ho rahi urgently,Vehicle Services,Bike Repair,Vehicle Services,Bike Repair,PASS
+jaldi khet me irrigation karwani hai mere area me,Agriculture,Irrigation Service,Agriculture,Irrigation Service,PASS
+bhai car tow karwani hai mere area me,Vehicle Services,Towing Service,Vehicle Services,Towing Service,PASS
+mere area me ghar par teacher chahiye chahiye,Education,Home Tutor,Education,Home Tutor,PASS
+mujhe physiotherapy karwani hai help chahiye,Health & Wellness,Physiotherapist,Health & Wellness,Physiotherapist,PASS
+wedding photographer chahiye jaldi,Local Professionals,Photographer,Local Professionals,Photographer,PASS
+termite treatment chahiye nearby,Daily Needs,Pest Control,Daily Needs,Pest Control,PASS
+bhai air conditioner kharab hai jaldi,Home Services,AC Repair & Service,Home Services,AC Repair & Service,PASS
+bhai ghar par teacher chahiye urgently,Education,Home Tutor,Education,Home Tutor,PASS
+mere ghar me chartered accountant chahiye koi hai kya,Business Services,CA,Business Services,CA,PASS
+mere ghar me laundry service chahiye jaldi,Daily Needs,Laundry,Daily Needs,Laundry,PASS
+jaldi digital marketing service chahiye aaj,Business Services,Digital Marketing,Business Services,Digital Marketing,PASS
+aaj fitness trainer chahiye mere area me,Health & Wellness,Fitness Trainer,Health & Wellness,Fitness Trainer,PASS
+mujhe home tutor chahiye please,Education,Home Tutor,Education,Home Tutor,PASS
+laundry service chahiye mere area me,Daily Needs,Laundry,Daily Needs,Laundry,PASS
+bhai physiotherapy karwani hai urgently,Health & Wellness,Physiotherapist,Health & Wellness,Physiotherapist,PASS
+nearby fitness trainer chahiye urgently,Health & Wellness,Fitness Trainer,Health & Wellness,Fitness Trainer,PASS
+mere ghar me exam coaching chahiye chahiye,Education,Coaching Institute,Education,Home Tutor,FAIL
