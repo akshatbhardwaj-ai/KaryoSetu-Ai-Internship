@@ -16,7 +16,7 @@ The included `finetune_colab.py` uses:
 - LoRA / 4-bit QLoRA
 - Hugging Face Transformers + TRL + PEFT
 
-Run it in a GPU-enabled Google Colab environment.
+Run it in a GPU-enabled Kaggle environment.
 
 ## Evaluation
 The held-out `test.csv` is not used for training. After fine-tuning, run `evaluate_finetuned.py` to calculate category, subcategory, and joint accuracy.
